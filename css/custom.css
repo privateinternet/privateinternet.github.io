@@ -1,0 +1,54 @@
+.navbar-text > a{
+	color: inherit;
+	text-decoration: none;
+	padding-bottom: 300px;
+}
+
+body .jumbotron{
+
+  padding-bottom: 100px;
+  color:white;
+}
+
+
+.thumbnail{
+	padding-top: 30px;
+	border: none;
+}
+
+h3{
+	text-align: center;
+}
+
+.row{
+	padding-bottom: 100px;
+}
+
+p{
+	font-family: 'Droid Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+.intro-header{
+	color:white;
+}
+
+
+
+.subheading{
+	color:white;
+	font-size: 24px;
+	
+}
+
+.internetpriv{
+	padding-top:30px;
+}
+
+.internetjumbo{
+	font-size: 50px;
+}
